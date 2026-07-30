@@ -2,7 +2,7 @@
 
 A dashboard for managing human demonstration-data collection operations — the kind of internal tooling a robotics/embodied-AI company needs to run its data-collection pipeline: tracking recording sessions, reviewing capture quality, and monitoring task/environment coverage over time.
 
-**[Live demo →](#)** &nbsp;·&nbsp; Built by [Jatin Sharma](https://github.com/JatinSharma222)
+**[Live demo →](https://intelligence-factory-five.vercel.app)** &nbsp;·&nbsp; Built by [Jatin Sharma](https://github.com/JatinSharma222)
 
 ![Dashboard preview](./docs/dashboard-preview.png)
 
