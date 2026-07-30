@@ -4,7 +4,8 @@ A dashboard for managing human demonstration-data collection operations — the 
 
 **[Live demo →](https://intelligence-factory-five.vercel.app)** &nbsp;·&nbsp; Built by [Jatin Sharma](https://github.com/JatinSharma222)
 
-![Dashboard preview](./docs/dashboard-preview.png)
+<img width="1706" height="987" alt="Screenshot 2026-07-30 at 4 39 02 PM" src="https://github.com/user-attachments/assets/a73d60c5-cfd1-4e3c-ba50-3099cf3c5eef" />
+
 
 ## Why this exists
 
